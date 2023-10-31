@@ -1,0 +1,4 @@
+repository "Enshima@TerryPlay@cloud"
+  path "/"
+    br "/main"
+    co "/main"
